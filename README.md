@@ -1,4 +1,4 @@
-#Preview
+# Preview
 
 Scan this QR with expo App [Expo](https://expo.dev/preview/update?message=Initial%20commit&updateRuntimeVersion=1.0.0&createdAt=2024-12-12T17%3A11%3A56.671Z&slug=exp&projectId=dd31f704-99b5-43c6-81cc-221834da61d2&group=77eb8a2e-2846-4e3e-9898-6d4ceaa4e4b1)
 
